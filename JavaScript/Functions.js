@@ -1,4 +1,4 @@
-// A function that returns the smallest argument
+// Función que devuelve el menor de los argumentos
 function returnSmallest(a, b) {
 	if(a>b) {
 		return b
@@ -7,4 +7,4 @@ function returnSmallest(a, b) {
 	}
 }
 
-// Add your functions below this line :) ------------------------------------
+// Añade tu función bajo esta línea ------------------------------------
