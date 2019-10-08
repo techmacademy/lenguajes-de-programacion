@@ -8,3 +8,9 @@ function returnSmallest(a, b) {
 }
 
 // Añade tu función bajo esta línea ------------------------------------
+
+const saludar = function(saludarVar){
+	return saludarVar;
+}
+
+saludar("hola mundo")
